@@ -7,7 +7,6 @@ poder realizar apuestas crear los eventos deportivos etc..
 
 ## Construido con 🛠️
 
-* [EmailSender]
 * [C#]
 * [Entity Framework]
 * [.Net Framework]
